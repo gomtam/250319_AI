@@ -61,3 +61,8 @@ python voice_recorder_tts.py
 ## 저작권 및 라이선스
 
 이 프로젝트는 오픈 소스로 제공됩니다. 
+
+
+<img src="https://github.com/gomtam/image/blob/main/250319/KakaoTalk_20250319_170316269.png" width="600">
+<img src="https://github.com/gomtam/image/blob/main/250319/KakaoTalk_20250314_124755052.png" width="600">
+<img src="https://github.com/gomtam/image/blob/main/250319/KakaoTalk_20250319_170248452.png" width="600">
